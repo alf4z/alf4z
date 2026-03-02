@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-##my name is alfaz
+my name is alfaz
 <!--
 **alf4z/alf4z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align=center >
+  <img href=https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzI0Njg0NjgsIm5iZiI6MTc3MjQ2ODE2OCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzAyVDE2MTYwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVjNjJmOTYzOWIxYzBiMmZkOWM1YjIwNTIyNjhmNjZmMzg3ZWI5MGZmNDZiOGVkYjhlNTkyZmI5OWQxMDI1OGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.LojUgsuCfoPEvD1EEURYuQiqIFnCgDFU-esnvK0YiyM>
+</p>
